@@ -1,0 +1,121 @@
+main {
+  background: #55D0BA;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.main-screen {
+  background:center/cover no-repeat;
+    background-color: #55D0BA;
+  font-size: x-large;
+  font-weight: bold;
+}
+.noshow{
+  display: none;
+}
+.catalog {
+  background-color: #00C2FF;
+  padding-top: 8vh;
+  padding-bottom: 10vh;
+}
+.catalog .catalog-text {
+  margin-bottom: 5vh;
+}
+.catalog .doggy {
+  background: url("../../img/doggy.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .beach {
+  background: url("../../img/beach.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .homack {
+  background: url("../../img/homack.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .homak2 {
+  background: url("../../img/homak2.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .negr {
+  background: url("../../img/negr.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .fiesta {
+  background: url("../../img/fiesta.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .hippo {
+  background: url("../../img/hippo.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+.catalog .beachbitch {
+  background: url("../../img/beachbitch.jpg") center/cover no-repeat;
+  border-radius: 10px;
+}
+
+.img {
+  height: 30vh;
+  margin-bottom: 10px;
+}
+
+.make-order {
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+}
+
+.about-us1 {
+  background-color: #00C2FF;
+  padding-top: 8vh;
+  padding-bottom: 10vh;
+}
+
+.about-us2 {
+  padding-top: 8vh;
+  padding-bottom: 10vh;
+}
+.about-us2 .personal-text {
+  margin-bottom: 5vh;
+}
+
+.catalog-menu div, .personal div {
+  margin: 5px 0;
+}
+
+.joka {
+  height: 60vh;
+  background: url("../../img/joka.jpg") center/cover no-repeat;
+}
+.detrov {
+  width: 30vh;
+  background: url("../../img/detrov.jpg") center/cover no-repeat;
+}
+.nautro {
+  height: 30vh;
+  background: url("../../img/nautro.jpg") center/cover no-repeat;
+}
+.boka {
+  height: 60vh;
+  background: url("../../img/boka.jpg") center/cover no-repeat;
+}
+.babijon {
+  background: url("../../img/babijon.jpg") center/cover no-repeat;
+}
+.ded {
+  background: url("../../img/ded.jpg") center/cover no-repeat;
+}
+.babij {
+  background: url("../../img/babij.jpg") center/cover no-repeat;
+}
+.vital {
+  background: url("../../img/vital.jpg") center/cover no-repeat;
+}
+.guys {
+  background: url("../../img/vital.jpg") center/cover no-repeat;
+}
+
+
+/*# sourceMappingURL=style.css.map */
